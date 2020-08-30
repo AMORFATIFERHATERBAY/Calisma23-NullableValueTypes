@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/bin/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/bin/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/bin/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/bin/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/bin/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma23-NullableValueTypes/obj/Debug/netcoreapp3.1/Calisma23-NullableValueTypes.genruntimeconfig.cache
