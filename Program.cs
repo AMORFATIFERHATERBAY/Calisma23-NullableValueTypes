@@ -16,6 +16,8 @@ namespace Calisma23_NullableValueTypes
            Console.WriteLine(d.GetValueOrDefault());
            Console.WriteLine(d1);
            Console.WriteLine(d1.GetValueOrDefault());
+           Console.WriteLine(d1.Value);
+           Console.WriteLine(n.Value);
 
         }
     }
